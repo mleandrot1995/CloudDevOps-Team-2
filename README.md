@@ -1,8 +1,9 @@
 # CloudDevOps-Team-2
 
+
 Miembros del proyecto
 
-NyA: Toloza Leandro 
+AyN: Toloza Leandro
 email: mleandrot1995@gmail.com
 Linkedin: https://www.linkedin.com/in/leandro-toloza-653544189/
 Rol laboral: Ingeniero industrial - Analista funcional
@@ -13,4 +14,17 @@ email: p.jhonathan@hotmail.com
 LinkedIn: https://www.linkedin.com/in/pjhonathan
 Rol laboral: Ingeniero Civil - Analista Ingeniero de Datos - Proyectista
 Carrera en EducaciónIT: Cloud DevOps
+
+AyN: Nieto Marina Andrea
+email: mandieto@gmail.com
+Linkedin: https://www.linkedin.com/in/marandnie/
+Rol laboral: Programadora - Analista funcional
+Carrera en EducaciónIT: Cloud DevOps
+
+- Grecco Oliva, Franco
+..- Rol: Dev Team
+..- Mail: srgrecco93@gmail.com
+..- [LinkedIn](https://www.linkedin.com/in/francogrecco)
+..- Rol laboral: Desempleado
+..- Carrera en EducacionIT: Cloud DevOps
 
