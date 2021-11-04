@@ -32,3 +32,9 @@ Carrera en EducaciónIT: Cloud DevOps
 ..- Carrera en EducacionIT: Cloud DevOps
 
 Gustavo Antonio González - gustavo27gonzalez27@gmail.com - https://www.linkedin.com/in/gustavo-antonio-gonz%C3%A1lez/ - Cloud Architect - CloudDevOps(Kubernetes, Docker y Jenkins)
+
+NyA: Stefany Chacin
+email: stefany140397@gmail.com
+Linkedin: https://www.linkedin.com/in/stefany-chacin/
+Rol laboral: Desarrollador React Js
+Carrera en EducaciónIT: Cloud DevOps
