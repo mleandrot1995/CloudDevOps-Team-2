@@ -1,6 +1,9 @@
 # CloudDevOps-Team-2
 
 
+=======
+
+
 Miembros del proyecto
 
 AyN: Toloza Leandro
@@ -28,3 +31,4 @@ Carrera en EducaciónIT: Cloud DevOps
 ..- Rol laboral: Desempleado
 ..- Carrera en EducacionIT: Cloud DevOps
 
+Gustavo Antonio González - gustavo27gonzalez27@gmail.com - https://www.linkedin.com/in/gustavo-antonio-gonz%C3%A1lez/ - Cloud Architect - CloudDevOps(Kubernetes, Docker y Jenkins)
