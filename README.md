@@ -63,3 +63,11 @@ Linkedin: https://www.linkedin.com/in/yuliadasilva/
 Rol laboral: Programadora - Analista funcional
 Carrera en EducaciónIT: Cloud DevOps
 
+
+Zarza, Mauro David
+- Rol en el proyecto: Dev Team
+- Email: mauro.mdz798@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/mauro-zarza-0a80a31a3/](https://www.linkedin.com/in/mauro-zarza-0a80a31a3/)
+- Rol laboral:
+- Carrera en EducacionIT: Cloud DevOps
+
