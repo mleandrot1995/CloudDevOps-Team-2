@@ -76,3 +76,12 @@ Zarza, Mauro David
 - LinkedIn: [https://www.linkedin.com/in/mauro-zarza-0a80a31a3/](https://www.linkedin.com/in/mauro-zarza-0a80a31a3/)
 - Rol laboral:
 - Carrera en EducacionIT: Cloud DevOps
+
+Martinez Sirandoni, Abril Noelia
+
+- Rol en el proyecto: Dev Team
+- Email: abrilmaartinezok@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/abrilmsirandoni/](https://www.linkedin.com/in/abrilmsirandoni/)
+- Rol laboral: Data Engineer
+- Carrera en EducacionIT: Cloud DevOps
+
