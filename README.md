@@ -58,7 +58,7 @@ Chacin, Stefany
 - Rol en el proyecto: Dev Team
 - Email: stefany140397@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/stefany-chacin/](https://www.linkedin.com/in/stefany-chacin/)
-- Rol laboral: Desarrollador React Js
+- Rol laboral: Desarrollador React Js.
 - Carrera en EducacionIT: Cloud DevOps
 
 Da Silva, Yulia
