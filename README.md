@@ -85,3 +85,13 @@ Martinez Sirandoni, Abril Noelia
 - Rol laboral: Data Engineer
 - Carrera en EducacionIT: Cloud DevOps
 
+
+Apellido, Nombre: Perez Sasha
+
+- Rol en el proyecto: Dev Team
+- Email: perezsasha97@gmail.com
+- LinkedIn:www.linkedin.com/in/sasha-perez-
+- Rol laboral: Administrativo
+- Carrera en EducacionIT: Cloud DevOps
+
+
