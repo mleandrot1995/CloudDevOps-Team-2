@@ -89,6 +89,6 @@ Perez, Sasha
 
 - Rol en el proyecto: Dev Team
 - Email: perezsasha97@gmail.com
-- LinkedIn:www.linkedin.com/in/sasha-perez-
+- LinkedIn: [www.linkedin.com/in/sasha-perez-](www.linkedin.com/in/sasha-perez-)
 - Rol laboral: Administrativo
 - Carrera en EducacionIT: Cloud DevOps
