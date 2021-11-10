@@ -1,0 +1,14 @@
+{
+  "restartable": "rs",
+  "ignore": [".git", ".gitignore", "node_modules/**/node_modules"],
+  "verbose": false,
+  "execMap": {
+    "js": "node"
+  },
+  "watch": ["./Back-end/index.js", "./Back-end/config/", "./Back-end/routes"],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "js,json",
+  "delay": 800
+}
