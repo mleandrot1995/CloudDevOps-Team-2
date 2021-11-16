@@ -16,3 +16,8 @@
 - Asignacion de miembro a la creacion de cuentas de los Cloud Providers
 - Reporte de avance de tarea 1 y tarea 2
 - Creación de AMI con Windows Server 2019
+
+## 16/11/2021:
+
+- Actualización del tablero en Trello
+- Actualización del tablero en Github
