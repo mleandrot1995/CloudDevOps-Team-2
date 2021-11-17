@@ -31,7 +31,7 @@ Creación de instancias en:
   -- Nombre de la instancia: "InstanciaCloudDevopsTeam+<nombre-del-equipo>"
   -- Tags de la instancia: año, sistema operativo, nombre del equipo, carrera, "institucion"="educacionit", "proyecto"="carrera clouddevops", "Entorno"="Production"
 
-- [En proceso] Creación de la AMI en base a la instancia Windows Server 2019 con las siguiente instalaciones:
+- [Listo] Creación de la AMI en base a la instancia Windows Server 2019 con las siguiente instalaciones:
   -- Docker en su ultima Version
   -- WAMP
   -- Kubernetes
@@ -40,6 +40,6 @@ Creación de instancias en:
   -- Jenkins en su ultima versión
   -- GIT
 
-Cambiar el fondo de pantalla de la AMI para probar su creación sin plagio
+- [Listo] Cambiar el fondo de pantalla de la AMI para probar su creación sin plagio
 
 - [Listo] Actualizar tableros en Trello y Github
