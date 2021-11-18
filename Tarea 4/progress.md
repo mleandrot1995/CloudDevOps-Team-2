@@ -2,11 +2,11 @@
 
 Instancia en GCP:
 
-- [En proceso] Tipo F1.micro
-- [En proceso] SO: Ubuntu
-- [En proceso] Disco: 100Gb
-- [En proceso] Acceso: Toda IP
-- [En proceso] Nombre: "InstanciaGCPCouldDevOps"
-- [En proceso] Tags: “Tipo:Contenedor” , “SistemaOperativo:Ubuntu” “Equipo:Teamx” , “Carrera:CloudDevops” “Institución:EducacionIT”
+- [Listo] Tipo F1.micro
+- [Listo] SO: Ubuntu
+- [Listo] Disco: 100Gb
+- [Listo] Acceso: Toda IP
+- [Listo] Nombre: "InstanciaGCPCouldDevOps"
+- [Listo] Tags: “Tipo:Contenedor” , “SistemaOperativo:Ubuntu” “Equipo:Teamx” , “Carrera:CloudDevops” “Institución:EducacionIT”
 
-- [En proceso] Actualizar tableros en Trello y Github
+- [Listo] Actualizar tableros en Trello y Github
