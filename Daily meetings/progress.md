@@ -23,3 +23,12 @@
 - Creación de AMI con Windows Server 2019
 - Actualización del tablero en Trello
 - Actualización del tablero en Github
+
+## 18/11/2021:
+
+- Resolución de problemas con la instalación de los requisitos de la AMI
+- Generación de la AMI
+- Creación de la instancia GCP
+- Creación de la VM en Azure
+- Actualización de Trello
+- Actualización de tablero de Github
